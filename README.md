@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/0xabdulkhalid/">
+  <a href="https://github.com/IRypSDev/">
     <img src="https://github-readme-stats.vercel.app/api?username=irypsdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=59576B&icon_color=424450&text_color=4b4b4b&bg_color=0,B2B4C3,f2f1f4" width="450"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irypsdev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=59576B&icon_color=424450&text_color=4b4b4b&bg_color=0,B2B4C3,f2f1f4" width="375"  alt="iryps"/>
   </a>
